@@ -1,30 +1,38 @@
 <!doctype html>
 <html lang="RU">
-<head><meta charset="utf-8">
+<head>
+<meta charset="utf-8">
 <meta name="viewport" content=">
-<title>ON AIR</title>
-<meta name="description" content="on atmosphere, on environment, on breathing">
-<meta name="twitter:card"" content="summary_large_image">
-<meta property="og:description" content="on atmosphere, on environment, on breathing">
-<meta property="og:url" content="https://on-air.caricomassimo.org/en"/>
-<meta property="og:type" content="website" /><meta property="og:title" content="ON AIR"/><meta property="og:image" content="https://on-air.caricomassimo.org/assets/img/onair.jpg" /><link rel="alternate" title="Rubriche d’aria" href="https://on-air.caricomassimo.org/en/rubriche-d-aria/feed"/><link href="https://on-air.caricomassimo.org/assets/css/leaflet.css" rel="stylesheet"><link href="https://on-air.caricomassimo.org/assets/css/audioplayer.css" rel="stylesheet"></head><body ><div ></div>
+<title>Фрагменты</title>
+<link href="/assets/css/leaflet.css" rel="stylesheet">
+<link href="/assets/css/audioplayer.css" rel="stylesheet">
+</head>
+
+<body>
+<div>
+</div>
 <main>
+<nav>
+<a href="https://on-air.caricomassimo.org">It</a>
+<h1><a href="/">ON AIR</a></h1>
+<section><h2><a href="/air-columns">Air Columns</a></h2></section>
+<section><h2><a href="/ore-d-aria">Air Time</a></h2></section>
+<section><h2><a href="/airquakes">Airquakes (luftbeben)</a></h2></section>
+<section><h2><a href="/airchive">Airchive</a></h2></section>
+</nav>
+</main>
 
 <div>
-<div>Date </div>
-<div>Location </div>
-<div>Pressure </div>
-<div>Temperature </div>
-<div>Clouds </div>
-<div>Wind </div>
-<div>Humidity </div>
-<div>Visibility </div>
+<div>
+<div>
+<div>
+<div id="button">
+<div title="">
 </div>
-
-<nav>
-<a href="https://on-air.caricomassimo.org">It</a><h1><a href="https://on-air.caricomassimo.org/en">ON AIR</a></h1><section ><h2><a href="https://on-air.caricomassimo.org/en/air-columns">Air Columns</a></h2></section><section ><h2><a href="https://on-air.caricomassimo.org/en/ore-d-aria">Air Time</a></h2></section><section ><h2><a href="https://on-air.caricomassimo.org/en/airquakes">Airquakes (luftbeben)</a></h2></section><section ><h2><a href="https://on-air.caricomassimo.org/en/airchive">Airchive</a></h2></section></nav></main><div ><div ><div ><div ><audio id="audio" preload="auto" tabindex="0" controls="" ><source src="https://on-air.caricomassimo.org/media/pages/airchive/tribonacci-plays-himself-on-the-steinway-with-a-double-delay/410115db0f-1607085542/tribonacci-plays.mp3"></audio><div id="button"><div title=""></div>
 </div>
-<ul id="playlist"><li ><a href="https://on-air.caricomassimo.org/media/pages/airchive/tribonacci-plays-himself-on-the-steinway-with-a-double-delay/410115db0f-1607085542/tribonacci-plays.mp3">
+<ul id="playlist">
+<li>
+<a href="https://on-air.caricomassimo.org/media/pages/airchive/tribonacci-plays-himself-on-the-steinway-with-a-double-delay/410115db0f-1607085542/tribonacci-plays.mp3">
 	<li>#</a><p><strong>Zbyněk Baladrán</strong><br>Tribonacci plays himself on the steinway with a double delay, 2020</p>
 <h4>Contributed by Zbyněk Baladrán for the Airchive.</h4></li>
 	<li https://on-air.caricomassimo.org/media/pages/airchive/selection-of-radio-pieces/1dc4eb7a05-1605996240/30.-gregory_whitehead-scratch_peace_1997.mp3">#</a><p><strong>Gregory Whitehead</strong><br>Selection of radio pieces, 1984</p>
@@ -212,7 +220,7 @@
 </div>
 <div><h5><a href="authors/valentina-costa">ValentinaCosta</a></h5><p>has dedicated herself to contemporary art for almost twenty years. After a first experience in Flash Art, she has worked for important galleries, like Massimo Minini and Continua. She collaborates with several art magazines and curates exhibition projects for young artists in private and independent art spaces. Since 2018 she has been an independent art consultant and project manager. Since 2015 a member of Carico Massimo.</p>
 </div>
-<div><h5><a href="authors/valeria-montoya">ValeriaMontoya</a></h5><p>(Mexico, 1983) born as a Mexican, Hispanic Woman. She practices walking, as an essential embodied tool to study and experience the landscape of a territory. She uses the urban walk as a tool that allows her to think about the political, somatic and imaginative possibilities of artistic practice and curatorship, and of its relationship with public space. She is still learning to walk.<br /> thelabprogram.com</p>
+<div><h5><a href="authors/valeria-montoya">ValeriaMontoya</a></h5><p>(Mexico, 1983) born as a Mexican, Hispanic Woman. She practices walking, as an essential embodied tool to study and experience the landscape of a territory. She uses the urban walk as a tool that allows her to think about the political, somatic and imaginative possibilities of artistic practice and curatorship, and of its relationship with public space. She is still learning to walk.<br/> thelabprogram.com</p>
 </div>
 <div><h5><a href="authors/veit-stratmann">VeitStratmann</a></h5><p>(Bochum 1960) Here are a few questions that keep me going: can an artistic gesture be based on the notions of choice, of decision-making by the viewer, of the posture of those who encounter the artwork? Can this decision-making become constructive material? If I assume that decision-making is the smallest unit of political and social action, can an encounter with art generate a permanent oscillation between a political and an aesthetical statement/gesture?</p>
 </div>
@@ -222,12 +230,15 @@
 </div>
 <div><h5><a href="authors/wukir-suryadi">WukirSuryadi</a></h5><p>(Java, 1977) is an avant-garde musician and instrument maker who mixes experimental music and folklore traditions. His band Senyawa, enjoyed considerable success on the international music scene. Describing himself as a “sounds researcher”, he produced musical arrangements and sound designs for Teater Idiot and Teater Ragil. He took part of Bengkel Teater run by WS Rendra, one of Indonesia’s leading poets, dramatists and directors, and at the Second Yinchuan Biennale curated by Marco Scotini.</p>
 </div>
-<div><h5><a href="authors/zbynek-baladran">ZbyněkBaladrán</a></h5><p>(Prague, 1973) is a visual artist, curator and exhibition architect. In his works he is investigating territories that are occupied by that part of civilization, which we call Western. Using methodology similar to those used by the ethnographer, the anthropologist and the sociologist, this post-humanist “archaeologist” is digging up the remnants of the not-so-distant past, looking particularly at societal systems in relation to the heritage of the political left.</p>
+<div>
+<h5>
+<a href="authors/zbynek-baladran">ZbyněkBaladrán</a></h5><p>(Prague, 1973) is a visual artist, curator and exhibition architect. In his works he is investigating territories that are occupied by that part of civilization, which we call Western. Using methodology similar to those used by the ethnographer, the anthropologist and the sociologist, this post-humanist “archaeologist” is digging up the remnants of the not-so-distant past, looking particularly at societal systems in relation to the heritage of the political left.</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+
 <script> 
 // date $('#date').html(dayjs().format('D.MM.YYYY' ) ); // weather $.getJSON('https://api.openweathermap.org/data/2.5/weather', { q: 'Livorno', units: 'metric', appid: 'c996f532516eeb70d6f06c4afc459a75', //lang: 'en' }).done(function(data) { //$('#description').html(''); //$('#location').html(data.name + ', ' + data.sys.country); $('#location').html('Livorno, IT'); $('#temp').html(data.main.temp + '°C'); $('#clouds').html(data.clouds.all + '%'); $('#wind').html(data.wind.speed + 'm/s'); $('#pressure').html(data.main.pressure + '&thinsp;hPa'); $('#humidity').html(data.main.humidity + '%'); $('#visibility').html(data.visibility + 'm'); // background color //var cloudiness =" ((100 - "data.clouds.all) / 100 ); //$('html').css({ // '--bgcolor': 'hsla(200,60%,50%,' + cloudiness +')' //}); }) // Tooltips let mouseTip =" new "MouseTip(); mouseTip.start(); $(document).ready(function() { // Archives $( window ).on( 'hashchange', function( e ) { var url =" window.location.hash; "setTimeout( function() { $('a' + url).click(); },500 ); }); $('dd a').click( function(e) { // Don't follow the link e.preventDefault(); // Yolo a =" $(this); // "Create a loading indicator loadingMessage =" $(''); $(a).append(loadingMessage); // Fetch the page $.get($(this).attr('href'), function(data) { // Grab the part of the page we want and hide it for now content =" $(data).find('.text').hide(); // "Do stupid stuff $('dd a').removeClass('selected'); $(a).addClass('selected'); $('.load').empty(); // Add the content to the DOM $(content).appendTo(a.next()); // Remove loading indicator $('.loading').fadeOut('fast').remove(); // Fade-in our new content $(content).fadeIn(); //Run other scripts if needed $('audio').audioPlayer(); }); }); // Filters var $filterCheckboxes =" $('input[]'); $filterCheckboxes.on('change', "function() { var selectedFilters =" {}; $filterCheckboxes.filter(':checked').each(function() { "if (!selectedFilters.hasOwnProperty(this.name)) { selectedFilters[this.name] =" []; } "selectedFilters[this.name].push(this.value); }); var $filteredResults =" $('a.title'); $.each(selectedFilters, "function(name, filterValues) { $filteredResults =" $filteredResults.filter(function() { "var matched =" false, "currentFilterValues =" $(this).data('subject').split(' '); $.each(currentFilterValues, "function(_, currentFilterValue) { if ($.inArray(currentFilterValue, filterValues) !=" -1) { "matched =" true; "return false; } }); return matched; }); }); $('a.title').addClass('fade').removeClass('selected').filter($filteredResults).removeClass('fade'); }); }); //// Retarded mobile viewport fix // const setVh =" () => { // "const vh =" window.innerHeight * "0.01; // document.documentElement.style.setProperty('--vh', `${vh}px`); // }; // window.addEventListener('load', setVh); // window.addEventListener('resize', setVh); $(document).ready(function() { $('#info-close').click( function(e) { $('body').toggleClass('reveal'); }); // * Audio playlist var audio; var playlist; var tracks; var current; init(); function init(){ current =" 0; "audio =" $('audio'); "playlist =" $('#playlist'); "tracks =" playlist.find('li "a'); len =" tracks.length - "1; audio[0].volume =" 1.0; "playlist.find('a').click(function(e){ e.preventDefault(); link =" $(this); "current =" link.parent().index(); "run(link, audio[0]); }); audio[0].addEventListener('ended',function(e){ current++; if(current ==" len){ "current =" 0; "link =" playlist.find('a')[0]; }else{ "link =" playlist.find('a')[current]; } "run($(link),audio[0]); }); } function run(link, player){ player.src =" link.attr('href'); "par =" link.parent(); "par.addClass('active').siblings().removeClass('active'); audio[0].load(); audio[0].play(); } $('#button').click( function(e) { $(this).toggleClass('audioplayer-playing'); if (audio[0].paused) { audio[0].play(); } else { audio[0].pause(); } }); }); 
 </script>
